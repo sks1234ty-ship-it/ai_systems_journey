@@ -3,7 +3,7 @@
 # Date: 2026
 name = input("What is your name? ")
 age = int(input("what is your age?"))
-future_age = age + 7
+future_age = age + (2033- 2026)
 
 print(name)
 print(age)
